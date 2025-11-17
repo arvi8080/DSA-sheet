@@ -1,5 +1,3 @@
-.
-
 🚀 DSA Pattern-Based Problem Bank (FAANG Level)
 A comprehensive, structured, and pattern-based collection of Data Structures & Algorithms problems from Basic → Advanced, curated for FAANG interview preparation.
 This repository follows the Pattern-Based Learning Approach, which is the most effective method used by top candidates to crack coding interviews.
@@ -185,22 +183,28 @@ Advanced Data Structures
 
 📘 Problem Sets (With Clickable Links)
 1️⃣ Sliding Window
-ProblemPlatformLinkMaximum Subarray Sum of Size KLeetCodehttps://leetcode.com/problems/maximum-average-subarray-i/Longest Substring Without Repeating CharactersLeetCodehttps://leetcode.com/problems/longest-substring-without-repeating-characters/Minimum Window SubstringLeetCodehttps://leetcode.com/problems/minimum-window-substring/
+ProblemPlatformLinkMaximum Subarray Sum of Size K
+LeetCodehttps://leetcode.com/problems/maximum-average-subarray-i/Longest Substring Without Repeating CharactersLeetCodehttps://leetcode.com/problems/longest-substring-without-repeating-characters/Minimum Window SubstringLeetCodehttps://leetcode.com/problems/minimum-window-substring/
 
 2️⃣ Two Pointers
-ProblemPlatformLinkTwo Sum (Sorted)LeetCodehttps://leetcode.com/problems/two-sum-ii-input-array-is-sorted/3SumLeetCodehttps://leetcode.com/problems/3sum/Container With Most WaterLeetCodehttps://leetcode.com/problems/container-with-most-water/
+ProblemPlatformLinkTwo Sum (Sorted)
+LeetCodehttps://leetcode.com/problems/two-sum-ii-input-array-is-sorted/3SumLeetCodehttps://leetcode.com/problems/3sum/Container With Most WaterLeetCodehttps://leetcode.com/problems/container-with-most-water/
 
 3️⃣ Binary Search
-ProblemPlatformLinkBinary SearchLeetCodehttps://leetcode.com/problems/binary-search/Search in Rotated Sorted ArrayLeetCodehttps://leetcode.com/problems/search-in-rotated-sorted-array/Find Peak ElementLeetCodehttps://leetcode.com/problems/find-peak-element/
+ProblemPlatformLinkBinary Search
+LeetCodehttps://leetcode.com/problems/binary-search/Search in Rotated Sorted ArrayLeetCodehttps://leetcode.com/problems/search-in-rotated-sorted-array/Find Peak ElementLeetCodehttps://leetcode.com/problems/find-peak-element/
 
 4️⃣ Linked List
-ProblemPlatformLinkReverse Linked ListLeetCodehttps://leetcode.com/problems/reverse-linked-list/Detect CycleLeetCodehttps://leetcode.com/problems/linked-list-cycle/Merge Two Sorted ListsLeetCodehttps://leetcode.com/problems/merge-two-sorted-lists/
+ProblemPlatformLinkReverse Linked List
+LeetCodehttps://leetcode.com/problems/reverse-linked-list/Detect CycleLeetCodehttps://leetcode.com/problems/linked-list-cycle/Merge Two Sorted ListsLeetCodehttps://leetcode.com/problems/merge-two-sorted-lists/
 
 5️⃣ Trees
-ProblemPlatformLinkMaximum Depth of Binary TreeLeetCodehttps://leetcode.com/problems/maximum-depth-of-binary-tree/Diameter of Binary TreeLeetCodehttps://leetcode.com/problems/diameter-of-binary-tree/Binary Tree Level Order TraversalLeetCodehttps://leetcode.com/problems/binary-tree-level-order-traversal/
+ProblemPlatformLinkMaximum Depth of Binary Tree
+LeetCodehttps://leetcode.com/problems/maximum-depth-of-binary-tree/Diameter of Binary TreeLeetCodehttps://leetcode.com/problems/diameter-of-binary-tree/Binary Tree Level Order TraversalLeetCodehttps://leetcode.com/problems/binary-tree-level-order-traversal/
 
 6️⃣ Graphs
-ProblemPlatformLinkNumber of IslandsLeetCodehttps://leetcode.com/problems/number-of-islands/Clone GraphLeetCodehttps://leetcode.com/problems/clone-graph/Course ScheduleLeetCodehttps://leetcode.com/problems/course-schedule/
+ProblemPlatformLinkNumber of Islands
+LeetCodehttps://leetcode.com/problems/number-of-islands/Clone GraphLeetCodehttps://leetcode.com/problems/clone-graph/Course ScheduleLeetCodehttps://leetcode.com/problems/course-schedule/
 
 7️⃣ Dynamic Programming
 CategoryProblemLinkDP on ArraysHouse Robberhttps://leetcode.com/problems/house-robber/DP on SubsequencesLongest Increasing Subsequencehttps://leetcode.com/problems/longest-increasing-subsequence/DP on GridsUnique Pathshttps://leetcode.com/problems/unique-paths/Hard DPEdit Distancehttps://leetcode.com/problems/edit-distance/
